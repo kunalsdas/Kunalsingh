@@ -20,6 +20,5 @@
 - Frontend (Angular, React)
 - Python ( Flask, Databricks )
 - Nodejs
-- Devops
 - ADF, Synapse Analytics
 - Cloud solutions ( AWS, Azure )
