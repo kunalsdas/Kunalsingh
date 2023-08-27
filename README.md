@@ -18,6 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - Frontend (Angular, React)
+- Django
 - Python ( Flask, Databricks )
 - Nodejs
 - ADF, Synapse Analytics
